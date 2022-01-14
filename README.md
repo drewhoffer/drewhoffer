@@ -2,7 +2,7 @@
 
 ---
 
-Most of my experience is with full-stack web development however I like to stay up-to-date in all areas of software. My next goal is to dive into compsec :detective:.
+Most of my experience is with full-stack web development, however, I like to stay up-to-date in all areas of software. My next goal is to dive into cyber security 🔐.
 
 Reach out to me if you have any questions or are considering building something. I am always open to helping people build new things.:rocket: 
 
@@ -37,20 +37,3 @@ What I use for deployments:
 
 ![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-
-
-<!--
-**drewhoffer/drewhoffer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
